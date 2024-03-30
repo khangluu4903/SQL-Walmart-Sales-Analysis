@@ -18,7 +18,7 @@ The dataset contains 17 columns and 1000 rows on three different Walmart branche
 
 > 3. Add new column named `month_name` where I extracted the month when the transaction took place (Jan, Feb, Mar). 
 
-2. **Exploratory Data Analysis (EDA):** Wrote queries to answer the following questions. 
+3. **Exploratory Data Analysis (EDA):** Wrote queries to answer the following questions. 
 
 ### Generic Questions
 
