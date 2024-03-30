@@ -44,7 +44,7 @@ The dataset contains 17 columns and 1000 rows on three different Walmart branche
 
 1. Number of sales made in each time of the day per weekday
 2. Which of the customer types brings the most revenue?
-3. Which city has the largest tax percent/ VAT (**Value Added Tax**)?
+3. Which city has the largest tax percent?
 4. Which customer type pays the most in VAT?
 
 ### Customer Questions
